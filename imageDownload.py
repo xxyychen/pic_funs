@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2024/4/16 20:22
-# @Author : 鬼鬼
+# @Author : XX
 # @File : imageDownload.py
 # @Software: PyCharm
 
