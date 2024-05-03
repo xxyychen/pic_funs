@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2024/4/20 23:21
-# @Author : 鬼鬼
+# @Author : XX
 # @File : pics_method.py
 # @Software: PyCharm
 
